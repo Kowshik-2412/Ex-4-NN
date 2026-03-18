@@ -2,7 +2,6 @@
 <H3>NAME: KOWSHIK P</H3>
 <H3>REGISTER NO. 212224040164</H3>
 <H3>EX. NO.4</H3>
-<H3>DATE: 18/04/2024</H3>
 <H1 ALIGN =CENTER>Implementation of MLP with Backpropagation for Multiclassification</H1>
 <H3>Aim:</H3>
 To implement a Multilayer Perceptron for Multi classification
